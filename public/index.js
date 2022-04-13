@@ -4,7 +4,7 @@ import { OvrAttributeFill } from "./Overlay/GraphicAttribute.js";
 var map = new maplibregl.Map({
   container: "map",
   //style: 'https://api.maptiler.com/maps/basic/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
-  //style: './positron-gl-style-master/style.json',
+  //style: './positron-gl-style-master/style.json ',
   style: "./data/style/basic/style.json",
   //style: './data/style/dark/style.json',
   center: [127, 37.5],
