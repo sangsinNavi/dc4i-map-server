@@ -2,6 +2,7 @@
   "dependencies": {
     "express": "^4.17.3",
     "maplibre-gl": "^2.1.7",
+    "nodemon": "^2.0.15",
     "webpack": "^5.72.0"
   },
   "name": "97.-maplibre",
@@ -9,7 +10,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
