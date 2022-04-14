@@ -2,7 +2,8 @@
   "dependencies": {
     "express": "^4.17.3",
     "maplibre-gl": "^2.1.7",
-    "webpack": "^5.72.0"
+    "webpack": "^5.72.0",
+    "nodemon": "^2.0.15"
   },
   "name": "97.-maplibre",
   "version": "1.0.0",
@@ -16,9 +17,5 @@
   "directories": {
     "doc": "doc"
   },
-  "description": "",
-  "devDependencies": {
-    "nodemon": "^2.0.15",
-    "webpack-cli": "^4.9.2"
-  }
+  "description": ""
 }
