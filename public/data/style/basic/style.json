@@ -897,7 +897,7 @@
   "sources": {
     "maplibre": {
       "type": "vector",
-      "tiles": ["http://127.0.0.1:8000/map/{z}/{x}/{y}.pbf"],
+      "tiles": ["http://192.168.100.131:8000/osm/{z}/{x}/{y}.pbf"],
       "maxzoom": 14
     }
   },
